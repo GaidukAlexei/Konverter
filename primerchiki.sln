@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "primerchiki", "primerchiki\primerchiki.csproj", "{31CC7D59-35A9-49A5-B4C8-73ABC6383ABE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Currency", "Currency\Currency.csproj", "{EB468E90-9997-4EC7-BADC-7C5EB1E6EFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check", "Check\Check.csproj", "{BEBC6D3A-2DD3-4834-8FD2-5644AED571A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CC7D59-35A9-49A5-B4C8-73ABC6383ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CC7D59-35A9-49A5-B4C8-73ABC6383ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CC7D59-35A9-49A5-B4C8-73ABC6383ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CC7D59-35A9-49A5-B4C8-73ABC6383ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB468E90-9997-4EC7-BADC-7C5EB1E6EFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB468E90-9997-4EC7-BADC-7C5EB1E6EFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB468E90-9997-4EC7-BADC-7C5EB1E6EFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB468E90-9997-4EC7-BADC-7C5EB1E6EFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBC6D3A-2DD3-4834-8FD2-5644AED571A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBC6D3A-2DD3-4834-8FD2-5644AED571A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBC6D3A-2DD3-4834-8FD2-5644AED571A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBC6D3A-2DD3-4834-8FD2-5644AED571A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F2F654-782B-4B9A-A2B1-847C67D6923A}
+	EndGlobalSection
+EndGlobal
